@@ -23,7 +23,7 @@ function onMouseDown(event){
         var point2 = maxPoint * randomPoint2;
         var point3 = maxPoint * randomPoint3;
 
-        var newCircle = new Path.Circle(point1, 150);
+        var newCircle = new Path.Circle(point1, 250);
 
         var newReactangle = new Rectangle(point3, point2);
         var rectangle = new Path.Rectangle(newReactangle);
@@ -71,7 +71,7 @@ function onKeyDown(event) {
 function onFrame() {
     for(var i = 0; i < shapes.length; i++) {
         shapes[i].fillColor.hue += 2;
-        shapes[i].scale(.92);
+        shapes[i].scale(.94);
 
         shapes[i].rotate(4);
 
