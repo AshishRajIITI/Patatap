@@ -1,7 +1,8 @@
 **Tap-a-Tap** (A clone of Patatap) 
  
- (*)If on laptop-> Just tap any letter of ARSCII value ranging between 097-122 or 065-090, to see the effect.
- (*)If on Mobile-> Just tap anywhere on your screen to see the animation-sound synchrony. I have randomised the click using a function so that every time you click on mobile, you                    see a different effect!
+ *If on laptop* -> Just tap any letter of ARSCII value ranging between 097-122 or 065-090, to see the effect.
+ 
+ *If on Mobile* -> Just tap anywhere on your screen to see the animation-sound synchrony. I have randomised the click using a function so that every time you click on mobile, you                    see a different effect!
  
  **NOTE** => Presently, it only has two shapes(circle and rectangle).
  
