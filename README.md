@@ -5,7 +5,7 @@
  
  **NOTE** => Presently, it only has two shapes(circle and rectangle).
  
- **FUTURE SCOPE** => Build a chrome extension which includes this functionality as subpart.
+ **FUTURE SCOPE** => Build a chrome extension which includes this functionality as subpart. Also, add a record functionality. 
 
 What is Patatap?
 Patatap is a portable animation and sound kit. With the touch of a finger create melodies charged with moving shapes.
